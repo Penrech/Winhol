@@ -12,12 +12,17 @@
 
 <h1>Screenshots</h1>
 <p>
-  <a href='#img1'><img id='img1' width = '49%' src='device-2019-02-05-123200.png'/></a>
-  <a href='#img2'><img id='img2' width = '49%' src='device-2019-02-05-123255.png'/></a>
+  <a href='#img1'><img id='img1' width = '49%' src='1.jpg'/></a>
+  <a href='#img2'><img id='img2' width = '49%' src='2.jpg'/></a>
 </p>
 <p>
-  <a href='#img3'><img id='img3' width = '49%' src='device-2019-02-05-123346.png'/></a>
-  <a href='#img4'><img id='img4' width = '49%' src='device-2019-02-05-123438.png'/></a>
+  <a href='#img3'><img id='img3' width = '49%' src='3.jpg'/></a>
+  <a href='#img4'><img id='img4' width = '49%' src='4.jpg'/></a>
+</p>
+
+<h1>Video</h1>
+<p>
+  <a href='#img1'><img id='img1' width = '49%' src='winhol_video_cover.png'/></a>
 </p>
 
 <h1>License</h1>
