@@ -7,7 +7,7 @@
 </ul>
 
 <h1>Description</h1>
-<p>Winhol is a alcohol in air calculator, based in cups of wine</p>
+<p>Winhol is an alcohol in air calculator, based in cups of wine</p>
 <p>The idea behind this academic/personal mini project is to experiment with the Lottie Api to create animations and dynamic animations</p>
 
 <h1>Screenshots</h1>
